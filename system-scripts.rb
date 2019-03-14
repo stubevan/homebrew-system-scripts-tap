@@ -7,6 +7,6 @@ class SystemScripts < Formula
 
   def install
     # install scripts, create symlink to script in /usr/local/bin
-    bin.install "tarsnap.sh"
+    bin.install "cleanarchive.sh"
   end
 end
