@@ -1,4 +1,4 @@
-class MeesSystemScripts < Formula
+class SystemScripts < Formula
   desc "System Scripts For Mees Machines"
   homepage "https://github.com/stubevan/system-scripts"
   url "https://github.com/stubevan/system-scripts-tap/system-scripts-v0.0.1.tar.gz"
